@@ -1,5 +1,5 @@
 #Modulo de Funcionamento da Bateria
-#Artigo:BESS
+#Artigo:SBSE
 
 
 import numpy as np
