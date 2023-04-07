@@ -1,10 +1,7 @@
 #Modulo de Funcionamento da Bateria
 #Artigo:SBSE
 
-
 import numpy as np
-import pandas as pd
-import math
 
 #Função para calcular o balanço energético da bateria
 def ener_bess(n_steps, soc_min, soc_max, soc_int, wind_pwr, sol_pwr, load):
